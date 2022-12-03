@@ -14,7 +14,7 @@ public class Cwh_14_ps3 {
 		
 		//problem 3
 		String letter = "Dear, <|name|> ,thanks a lot 1!";
-		String change =letter.replace("<|name|>", "Harry");
+		String change =letter.replace("<|name|>", "harry");
 		System.out.println(change);
 		
 		//Problem 4 IMP
